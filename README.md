@@ -1,2 +1,2 @@
-# LethalCompanyTemplate
-A template for a BepInEx 5 Plugin, using the correct .csproj configuration for Lethal Company modding
+# speedandlifeandweight.ect
+increases your speed your life expectancy reduces weight ect.
